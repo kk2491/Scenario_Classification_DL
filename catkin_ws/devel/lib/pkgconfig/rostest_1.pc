@@ -1,0 +1,8 @@
+prefix=/home/Ubuntu_1/ROS/rostensor_v1/devel
+
+Name: rostest_1
+Description: Description of rostest_1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/Ubuntu_1/ROS/rostensor_v1/devel/lib 
+Requires: 
