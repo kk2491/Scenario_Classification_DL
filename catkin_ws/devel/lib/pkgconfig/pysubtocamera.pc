@@ -1,8 +1,0 @@
-prefix=/home/Ubuntu_1/ROS/rostensor_v1/devel
-
-Name: pysubtocamera
-Description: Description of pysubtocamera
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/Ubuntu_1/ROS/rostensor_v1/devel/lib 
-Requires: 
