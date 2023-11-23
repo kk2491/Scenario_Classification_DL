@@ -1,8 +1,0 @@
-prefix=/home/Ubuntu_1/ROS/rostensor_v1/install
-
-Name: subtocamera
-Description: Description of subtocamera
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/Ubuntu_1/ROS/rostensor_v1/install/lib 
-Requires: 
